@@ -1,0 +1,22 @@
+{
+    "name": "tip3-wallet",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@eversdk/appkit": "^0",
+        "@eversdk/core": "^1",
+        "@eversdk/lib-node": "^1",
+        "@broxus/tip3": "git+https://github.com/broxus/tip3.git",
+        "@broxus/contracts": "^1.1.0",
+        "@types/chai": "^4.3.3",
+        "@types/mocha": "^10.0.0",
+        "@types/node": "^18.11.9",
+        "chai": "^4.3.6"
+    }
+}

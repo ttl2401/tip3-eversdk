@@ -1,0 +1,16 @@
+{
+    "name": "hello-wallet",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node appkit.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@eversdk/appkit": "^0",
+        "@eversdk/core": "^1",
+        "@eversdk/lib-node": "^1"
+    }
+}
